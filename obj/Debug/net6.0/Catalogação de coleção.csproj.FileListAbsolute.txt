@@ -1,0 +1,15 @@
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.csproj.AssemblyReference.cache
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.AssemblyInfoInputs.cache
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.AssemblyInfo.cs
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.csproj.CoreCompileInputs.cache
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\bin\Debug\net6.0\Catalogação de coleção.exe
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\bin\Debug\net6.0\Catalogação de coleção.deps.json
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\bin\Debug\net6.0\Catalogação de coleção.runtimeconfig.json
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\bin\Debug\net6.0\Catalogação de coleção.dll
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\bin\Debug\net6.0\Catalogação de coleção.pdb
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.dll
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\refint\Catalogação de coleção.dll
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.pdb
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\Catalogação de coleção.genruntimeconfig.cache
+C:\Users\Esmeraldo Junior\Desktop\Catalogação de coleção\obj\Debug\net6.0\ref\Catalogação de coleção.dll
